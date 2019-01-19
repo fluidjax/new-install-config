@@ -5,7 +5,7 @@
 export PATH=$HOME/bin:$HOME/scripts:/usr/local/bin:$PATH
 export GOPATH=~/go
 export PATH=$PATH:$GOPATH/bin
-export HOMEBREW_GITHUB_API_TOKEN=f189759c24f13bd8c116fee8d3127a22a99e6df1
+export HOMEBREW_GITHUB_API_TOKEN=ADD_TOKEN_HERE
 export ZSH_TMUX_AUTOSTART='true'
 export TERM=xterm-256color
 export ZSH=$HOME/.oh-my-zsh
