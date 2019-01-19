@@ -1,0 +1,2 @@
+#aliases.AWS
+alias t='tmux new -A -s chris'
